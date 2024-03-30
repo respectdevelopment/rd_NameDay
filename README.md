@@ -5,7 +5,9 @@
 ###
 <p>Set nameday in your server description!</p>
 
-<p>Supported Country: Sweden, Spain, United States, Bulgaria, France, Estonia, Slovakia, Croatia, Greece, Austria, Russia, Latvia, Czech Republic, Finland, Poland, Germany, Hungary, Denmark, Lithuania, Italy</p>
+<h1>Supported Country</h1>
+
+<p>Sweden, Spain, United States, Bulgaria, France, Estonia, Slovakia, Croatia, Greece, Austria, Russia, Latvia, Czech Republic, Finland, Poland, Germany, Hungary, Denmark, Lithuania, Italy</p>
 
 <h1>Credits</h1>
 
