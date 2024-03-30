@@ -3,7 +3,7 @@
 
 <p>Set nameday in your server description!</p>
 
-<p">Supported Country: Sweden, Spain, United States, Bulgaria, France, Estonia, Slovakia, Croatia, Greece, Austria, Russia, Latvia, Czech Republic, Finland, Poland, Germany, Hungary, Denmark, Lithuania, Italy</p>
+<p>Supported Country: Sweden, Spain, United States, Bulgaria, France, Estonia, Slovakia, Croatia, Greece, Austria, Russia, Latvia, Czech Republic, Finland, Poland, Germany, Hungary, Denmark, Lithuania, Italy</p>
 
 
 <p>API CREDITS: This script using https://nameday.abalin.net api system.</p>
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="center">https://discord.respectdevelopment.eu</p>
+<p>https://discord.respectdevelopment.eu</p>
 
 ###
 
