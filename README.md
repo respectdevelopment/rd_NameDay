@@ -8,7 +8,6 @@
 <p>Supported Country: Sweden, Spain, United States, Bulgaria, France, Estonia, Slovakia, Croatia, Greece, Austria, Russia, Latvia, Czech Republic, Finland, Poland, Germany, Hungary, Denmark, Lithuania, Italy</p>
 
 <h1>Credits</h1>
-###
 
 <p>This script using https://nameday.abalin.net api system.</p>
 
