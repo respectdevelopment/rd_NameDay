@@ -4,7 +4,7 @@
 
 <p align="center">Set nameday in your server description!</p>
 
-NOTE CREDITS: This script using https://nameday.abalin.net api system.
+<p align="center">API CREDITS: This script using https://nameday.abalin.net api system.</p>
 
 <br clear="both">
 
