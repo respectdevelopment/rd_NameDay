@@ -11,7 +11,6 @@
 <p>API CREDITS: This script using https://nameday.abalin.net api system.</p>
 
 <h1>Showcase</h1>
-###
 
 ![image](https://github.com/respectdevelopment/rd_NameDay/assets/143709835/06c5293f-addb-40ac-bb9f-fe2285a2cda0)
 
