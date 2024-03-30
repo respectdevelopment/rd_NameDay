@@ -18,6 +18,7 @@
 <h1>Credits</h1>
 
 <p>This script using https://nameday.abalin.net api system.</p>
+<p>Inspired by https://tror.eu</p>
 
 <h1>Support</h1>
 
