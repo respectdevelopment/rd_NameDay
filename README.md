@@ -1,6 +1,8 @@
-![image](https://github.com/respectdevelopment/rd_NameDay/assets/143709835/c2a24d1e-0167-4e91-8115-5f0535e855de)
 
 
+<h1>rd_NameDay</h1>
+
+###
 <p>Set nameday in your server description!</p>
 
 <p>Supported Country: Sweden, Spain, United States, Bulgaria, France, Estonia, Slovakia, Croatia, Greece, Austria, Russia, Latvia, Czech Republic, Finland, Poland, Germany, Hungary, Denmark, Lithuania, Italy</p>
