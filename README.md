@@ -1,6 +1,7 @@
-<br clear="both">
+![image](https://github.com/respectdevelopment/rd_NameDay/assets/143709835/c2a24d1e-0167-4e91-8115-5f0535e855de)
 
-<h1 align="center">Nameday</h1>
+
+<h1>Nameday</h1>
 
 <p align="center">Set nameday in your server description!</p>
 
