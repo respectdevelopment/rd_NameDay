@@ -1,7 +1,7 @@
 Config = {}
 
 Config.Updater = true
-Config.Text = "Today have nameday {us}."
+Config.Text = "Today's is {us}' nameday."
 
 -- {se} - Sweden
 -- {es} - Spain
